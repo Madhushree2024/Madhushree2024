@@ -1,7 +1,7 @@
 # Hi, I'm Madhushree
 
 🎓 Engineering Graduate | ☁️ Cloud & DevOps Fresher  
-🔧 AWS | Azure | Terraform | Linux | CI/CD  
+🔧 AWS | Terraform | Linux | CI/CD  
 📍 Open to Cloud Engineer / DevOps / Analyst roles
 
 ---
