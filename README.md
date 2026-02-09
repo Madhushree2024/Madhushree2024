@@ -61,4 +61,4 @@ I enjoy designing scalable, secure cloud solutions and working with Infrastructu
 
 ---
 
-⭐ *Actively learning, building, and contributing to cloud and DevOps projects*
+⭐ *Actively learning, building, and contributing to projects*
