@@ -14,7 +14,7 @@ I enjoy designing scalable, secure cloud solutions and working with Infrastructu
 
 ## 🛠️ Skills
 - **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, Lambda, CloudFront, DynamoDB)
-- **DevOps & IaC:** Terraform, GitHub Actions, Jenkins
+- **DevOps & IaC:** Terraform, GitHub Actions
 - **Operating Systems & Tools:** Linux, Git, Docker
 - **Programming & Scripting:** Python, Bash
 - **Monitoring & Logging:** Amazon CloudWatch
