@@ -7,9 +7,8 @@
 ---
 
 ## 🚀 About Me
-I am a recent engineering graduate with hands-on experience in cloud infrastructure, serverless architectures, and DevOps automation.  
-I enjoy designing scalable, secure cloud solutions and working with Infrastructure as Code and CI/CD pipelines in real-world environments.
-
+AI & ML graduate with internship experience in full stack development and cloud-based applications, along with hands-on
+project work. Eager to start a career as a fresher and contribute in a professional environment.
 ---
 
 ## 🛠️ Skills
