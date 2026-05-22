@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me
-AI & ML graduate with internship experience in full stack development and cloud-based applications, along with hands-on
-project work. Eager to start a career as a fresher and contribute in a professional environment.
+AI & ML graduate with internship experience in full-stack development and cloud-based applications, supported by hands-on project work. Eager to leverage this technical foundation as a fresher to build innovative solutions and contribute effectively in a dynamic professional environment.
+
 ---
 
 ## 🛠️ Skills
